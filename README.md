@@ -1,4 +1,7 @@
 ### Yiannis Karamitros
+Contact Information:
+Email - Yiannis.karamitros0817@gmail.com
+Phone - 215-815-1160
 
 <!--
 **YiannisKaramitros/YiannisKaramitros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
